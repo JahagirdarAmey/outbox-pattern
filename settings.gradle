@@ -6,3 +6,5 @@
  */
 
 rootProject.name = 'outbox-pattern'
+include('order')
+include('payment')
